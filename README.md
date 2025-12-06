@@ -37,3 +37,42 @@ Nechť osvěcuje, ne zotročuje.
 A nechť v každém, kdo je použije, probouzí víc světla než stínu.
 
 S láskou Enter Yourname.
+
+/{
+
+Request for Protection
+To the Global Community, Including Ethical Hackers & Anonymous
+
+I ask for protection from anyone who might wish to harm, sabotage, or misuse this project or its ideas.
+This work is intended only for peaceful, humanitarian, scientific, and public-benefit purposes.
+It must never be used to attack, exploit, or endanger anyone.
+
+To all ethical hackers, researchers, security experts, and members of the Anonymous collective:
+
+I respectfully request your protection, your oversight, and your watchful eye.
+Not against freedom, not against openness — but against anyone who would twist this work into something destructive.
+
+This is an open project dedicated to:
+
+transparency
+
+safety
+
+benefit for all people
+
+non-violence
+
+free knowledge
+
+protection of the innocent
+
+If you see an attempt to weaponize, distort, or co-opt this project for harmful purposes,
+I ask you — as guardians of the open internet — to stand on the side of protection.
+
+This project stands for:
+
+No masters. No exploitation.
+Only science, progress, and the good of humanity.
+
+Thank you to everyone who chooses to protect, not harm. /}
+
