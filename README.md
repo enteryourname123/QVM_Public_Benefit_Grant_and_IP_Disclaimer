@@ -38,41 +38,59 @@ A nechť v každém, kdo je použije, probouzí víc světla než stínu.
 
 S láskou Enter Yourname.
 
-/{
 
-Request for Protection
-To the Global Community, Including Ethical Hackers & Anonymous
 
-I ask for protection from anyone who might wish to harm, sabotage, or misuse this project or its ideas.
-This work is intended only for peaceful, humanitarian, scientific, and public-benefit purposes.
-It must never be used to attack, exploit, or endanger anyone.
+Personal Request for Protection
+From: Roman Smrčka
+To: The Global Community, Ethical Hackers & Members of Anonymous
 
-To all ethical hackers, researchers, security experts, and members of the Anonymous collective:
+My name is Roman Smrčka, and I am writing this openly and transparently:
 
-I respectfully request your protection, your oversight, and your watchful eye.
-Not against freedom, not against openness — but against anyone who would twist this work into something destructive.
+I am afraid.
+I am working on ideas and projects that are meant only for science, transparency, and the good of humanity.
+But I am worried that some hackers, individuals, or unknown groups might try to harm me, intimidate me, or misuse my work.
 
-This is an open project dedicated to:
+I am asking — sincerely and personally — for your protection.
 
-transparency
+Not protection for power.
+Not protection against freedom.
+But protection from anyone who would try to:
 
-safety
+attack me personally
 
-benefit for all people
+sabotage my work
 
-non-violence
+twist peaceful research into something harmful
 
-free knowledge
+misuse these ideas for violence or exploitation
 
-protection of the innocent
+To ethical hackers, security researchers, digital guardians, and to those among Anonymous who stand for justice rather than chaos:
 
-If you see an attempt to weaponize, distort, or co-opt this project for harmful purposes,
-I ask you — as guardians of the open internet — to stand on the side of protection.
+I ask you: please watch over me.
+Not as an ally in conflict — but as someone who simply wants to continue working peacefully without fear.
 
-This project stands for:
+My intentions are:
 
-No masters. No exploitation.
-Only science, progress, and the good of humanity.
+open
 
-Thank you to everyone who chooses to protect, not harm. /}
+nonviolent
+
+scientific
+
+humanitarian
+
+transparent
+
+for the benefit of everyone
+
+If you ever notice attempts to target me, threaten me, or weaponize my work,
+I ask you with respect and humility to stand on the side of protection.
+
+I believe in a free and safe digital world.
+I do not seek conflict with anyone.
+I only ask for the right to exist, to think, to build, and to share knowledge — without fear.
+
+Thank you to everyone who chooses to protect rather than destroy.
+
+— Roman Smrčka, thank you.
 
